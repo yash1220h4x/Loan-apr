@@ -1,0 +1,6 @@
+{
+  "name": "LoanShield | Digital Lending Auditor",
+  "description": "Digital lending and true APR audit dashboard cross-checking loan terms against RBI consumer protection mandates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
